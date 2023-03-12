@@ -31,3 +31,6 @@ def fetchTweets(queries):
     twint.run.Search(config)
 
     return tweets
+
+if __name__ == "__main__":
+    app.run(debug=True)
