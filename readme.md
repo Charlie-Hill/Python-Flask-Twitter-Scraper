@@ -1,3 +1,5 @@
+# ** 2023 UPDATE: LIKELY DOES NOT WORK WITH TWITTER/X RATE LIMIT UPDATES
+
 # Twitter scraper (Flask wrapper for Twint)
 
 This is a very basic Flask HTTP API that uses the Twint library to fetch tweets from a specific query and returns results in a JSON format.
